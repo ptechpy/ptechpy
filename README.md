@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Networking and Python
+- 🌱 I’m currently learning Network and Python
 - 💞️ I’m looking to collaborate on Python Projects
 
 <!---
